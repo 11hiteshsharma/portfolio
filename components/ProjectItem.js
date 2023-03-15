@@ -20,7 +20,7 @@ const ProjectItem = () => {
             Movie Review Blog
           </h3>
           <p className="text-center py-3  text-white  ">React JS</p>
-          <Link href="/property">
+          <Link href="/reviews">
             <p className="pb-4 pt-2 text-gray-700 rounded-lg bg-white text-center font-bold">
               More Info
             </p>

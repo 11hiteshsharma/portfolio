@@ -28,9 +28,7 @@ const Contact = () => {
                 <div>
                   <h2 className="py-2 text-grey-700">Hitesh Sharma</h2>
                   <p>Front-End Developer</p>
-                  <p className="py-4 text-grey-700">
-                    Contact me and let's Talk
-                  </p>
+                  <p className="py-4 text-grey-700">Contact me and lets Talk</p>
                 </div>
 
                 <div>

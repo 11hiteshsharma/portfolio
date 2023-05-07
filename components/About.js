@@ -10,20 +10,22 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
 
-          <p className="py-2 text-gray-600">tagline goes here</p>
+          <p className="py-2 text-gray-600">Software Developer</p>
           <p className="py-2 text-gray-600">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos ab
-            dolorem rerum explicabo repudiandae! Ad, eligendi corrupti cumque
-            saepe temporibus illo architecto praesentium maxime. Nisi veritatis
-            alias nulla adipisci quaerat, beatae facere omnis quod iste a
-            laudantium eligendi harum autem. Maiores delectus beatae distinctio
-            corrupti!
+            Front End Developer with expertise in React and Next.js, I am
+            currently working as a Software Developer Intern, where I am gaining
+            valuable practical experience and developing my skills further. In
+            this role, I am responsible for developing and maintaining web
+            applications using front-end technologies like HTML, CSS, and
+            JavaScript, as well as React and Next.js. M
           </p>
           <p className="py-2 text-gray-600">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt
-            quibusdam qui quidem sequi. Voluptates, blanditiis. Autem, vitae!
-            Molestias dolor commodi quisquam sequi sit, in maxime, suscipit
-            numquam dolorum consectetur rerum.
+            y experience as a Software Developer Intern has allowed me to work
+            on real-world projects and collaborate with experienced developers,
+            giving me a better understanding of the software development
+            lifecycle and how to work effectively in a team. I have also had the
+            opportunity to learn new technologies and tools, which has helped me
+            to become a more versatile developer.
           </p>
 
           <p className="py-2 text-gray-600 underline cursor-pointer">
